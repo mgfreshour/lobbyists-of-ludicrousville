@@ -1,4 +1,4 @@
-# Lobbyists of Locrussia
+# Lobbyists of Ludicrousville
 
 ## Synopsis
 You play as a lobbying corporation. The goal is to gain prestige. The jobs are bills your clients want passed. They pay you up front in money which you use to buy the resources of committee and general party votes.  End of the game, you lose prestige for any bill you took on you didn't complete (to balance the upfront money). Intrigue is, well intrigue, blackmail to take opponents resources, strip clubs to gain, etc. 
