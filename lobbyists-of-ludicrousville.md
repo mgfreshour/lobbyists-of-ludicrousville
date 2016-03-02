@@ -1,7 +1,7 @@
 # Lobbyists of Ludicrousville
 
 ## Synopsis
-You play as a lobbying corporation. The goal is to gain prestige. The jobs are bills your clients want passed. They pay you up front in money which you use to buy the resources of committee and general party votes.  End of the game, you lose prestige for any bill you took on you didn't complete (to balance the upfront money). Intrigue is, well intrigue, blackmail to take opponents resources, strip clubs to gain, etc. 
+You play as a lobbying corporation. The goal is to gain money! The jobs are bills your clients want passed. They pay you up front in money which you use to buy the resources of committee and general party votes. Intrigue is, well intrigue, blackmail to take opponents resources, strip clubs to gain, etc. 
 
 Themed as completely silly.  Though vaguely referencing real politics, completely made of stuff should be use so the game doesn't become dated to easily.
 
@@ -49,38 +49,45 @@ Each provide resources
 
 ***Examples***
 
-1. Borrow Bills Bank - provides cash, that must be paid back with interest. ¿¿End of game/turn or loss of prestige??
+1. Borrow Bills Bank - provides cash, that must be paid back with interest. Token with amount, ¿¿Event card "Loans Due" or end of game.
 1. Private Sex Dungeon - "Finance & Ethics" resources
 1. Private Island with Dinosaur Theme Park - "Banking & Technology" resources
 1. Luxury Frisbee Golf Course
 1. Eskimo Strip Club
 1. Hotel Conference Center with open bar
 1. Expensive Funeral Home
+1. Indoor Catapult Firing Range
 1. PoliSci Polytechnic - hire a new worker
-1. Beige Party National Committee HQ - Beige Party Resources
-1. Violet Party Rugby HQ - Violet Resources
+1. Crab Party National Committee HQ - Beige Party Resources
+1. Squirrel Party Scrum Lounge - Violet Resources
 1. Exotic Hunting Club - Pictures of jabberwocky, xenomorph on wall.
 1. Restricted Reservation Ristorante - Get any politician, expensive.
-1. ....
+
 
 ## Intrigue Cards
 Each of these should be powerful enough to not need balancing for the square to play them.
 
 1. ¿¿Gain two from Anonymous forum, or play one.
+1. ¿¿Each player gains two every turn.
 1. Expose Corruption - Increases cost of all resources for remainder of turn
-1. Blackmail with Goat Pics - Other play loses resource
-1. Anonymously Donate to Political Committee - Trade one party resource for another
-1. Reveal Gerrymandering in Shape of Nude Basset hound - All players lose half (rounded up) of one party in there pockets. 
+1. Blackmail with Goat Pics - Other player loses two resources of active players choice
+1. "Anonymously" Donate to Political Committee - Trade one party resource for another
+1. Reveal Gerrymandering in Shape of Dogs Playing Poker - All players lose half (rounded up) of one party in there pockets. 
 1. Sweeter Suite - allows use of already occupied building of corruption.
 1. Expose Excessive Mulligan Use - all players must pay $$ to keep their politicians of a particular group.
+1. Bad Publicity - Against another lobbyist, pay money up to X credits. Other can't buy politicians until they pay 2X money to remove.
+1. Good Publicity - Cancels Bad Publicity OR Reduces price of all politicians for remainder of turn.
+1. Buy New Alarm Clocks - Get first player token
+1. Expose Accounting Fraud - Other player of choice loses half their money.
+1. Practice "Creative" Accounting - Gain X money without interest. (Should be higher than most jobs pay)
 1. ....
 
 ## Quests
-Receive Money when accepting Quest.  Receive Prestige (Victory Points) when completing. Lose Prestige at the end of the game for any non-completed. Quests should balance the amount of money they provide up front and the amount of prestige they reward, so one will need to take a variety of quests, some that pay more than is needed to obtain the resources, some that are very prestigious but will require use of corporate money.
+Receive Money when accepting Quest.  Quests have a voting part and optionally a comittee part.  Each part pays more money.  A player may complete just the comittee part and turn in the quest or both parts at once.  They may _not_ complete the committee part and hold onto it to later complete the voting part.  They may _not_ complete the voting part without completing the comitee part. If the comittee part is countered, the voting part is will no longer be available for completion.  Some may have a penalty for not completing in a certain time frame (next election, end of game, graduation).
 
 1. ¿¿Themed so special intrigues/events affect them. Ex Controversial, Fundamental, Common Sense types??
 1. ¿¿Themed so different lobbying agencies have advantage taking them??
-1. ¿¿Counter offer, another player can "cancel" the completion by playing equivalent resources.  They get counter reward, originating player gets shafted.
+1. Some have counter offers, another player can "cancel" the completion by playing equivalent resources.  They get counter reward, originating player gets shafted.
 
 ***Examples***
 
@@ -110,18 +117,24 @@ Receive Money when accepting Quest.  Receive Prestige (Victory Points) when comp
 1. Prevent Reincarnation with Permit
 1. Rescend Law that prevents wearing the color celadon on St Patrick's day. Sponsored by Light Green Dyes Consortium
 1. Reduce Portion TV stations are required to spend on actual content by excluding political commercials from calculations.
-1. ....
+1. Require All public uniforms be made of 17.23458% locally cat hair - Sponsored by Agriculture Investors Union
+1. Remove "Hungry Enough to Eat a Horse" from Statue at Courthouse
+1. Outlaw wearing single wing of hawk costume in ballet - Sponsored by Right Wing Group - Counter deal offered by Left Wing Group
+1. Require all locks sold be openable with a single master key kept by law enforcement.
+1. Require all student loans final payment check be written in blood.
 
 ## Random Effect Cards
-One randomly drawn at the beginning of each turn.
+Turns are represent by the X cards dealt out at the beginning of the game. Each card has a before turn text, during turn text, and after turn text.
 
-1. ¿¿Or, turns are represent by the X cards dealt out at the beginning of the game!??
 1. Terrorist Paint-balling of Animal Rescue Shelter - All X resources are cheaper, Y are more expensive for whole turn.
 1. Government Hotdog Deficit in the News - "Finance" resources not available this turn.
 1. Election Year - All party resources are more expensive ¿¿or cheaper??.
+1. Minor Election - Swap parties needed for each job for remainder of turn.
 1. Hamster Pellet Tanker Spill - "Agriculture & Environment" are cheaper for whole turn.
 1. Smart Socks Stock Soars - Bank Interest Decreases.
-1. Virulent Vigilante - A building of corruption is shutdown for whole turn. ¿¿If buildings are grid of cards, specify location??
+1. Virulent Vigilante - A building of corruption is shutdown for whole turn. ¿¿If buildings are grid of cards, specify location or location type??
 1. PoliSci Polytechnic Summer Interns - Everyone gets one free lobbyist (worker) till end of term
-1. ....
+1. PoliSci Polytechnic Graudation - Everyone gets new lobbyist for remainder of the game.
+1. Loans Due - All loans must be repayed.
+
 
