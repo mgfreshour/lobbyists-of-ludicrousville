@@ -14,17 +14,15 @@ Themed as completely silly.  Though vaguely referencing real politics, completel
 ## Resources
 
 ***Examples***
-- Committee of Gov't Money and Internal Retribution (Finance & Ethics)
-- Committee of non-Gov't Money and Nifty New Gadgets (Banking & Technology)
-- Committee of Spying and Blowing Stuff Up (Intelligence & Military)
-- Committee of Growing Stuff to Eat and Breathable the Air (Agriculture & Environment)
-- Committee of Getting Around and Getting Paychecks (Transportation & Business)
+- Committee of Buying Stuff and Extreme Retribution (Finance & Defense) - Money/Gun
+- Committee of Eavesdropping and Nifty New Gadgets (Intelligence & Technology) Trenchcoat & Hat/Computer Monitor
+- Committee of Growing Growing Stuff and Getting Around (Transportation & Environment) - Car/Leaf
 
 Each Party resource has 3 spaces that cost the same.
 
-- Violet Major Party
-- Beige Major Party
-- ¿¿Mauve Minor Party?? - less available spaces, usable as wild card.
+- Violet Major Party - Crab
+- Beige Major Party - Squirrel
+- ¿¿Mauve Minor Party?? - less available spaces, usable as wild card. - Monkey
 
 Has 3 spaces allowing play of intrigue card.
 
