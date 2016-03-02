@@ -62,16 +62,19 @@ Each provide resources
 - Beige Party National Committee HQ - Beige Party Resources
 - Violet Party Rugby HQ - Violet Resources
 - Exotic Hunting Club - Pictures of jabberwocky, xenomorph on wall.
+- Restricted Reservation Ristorante - Get any politician, expensive.
 - ....
 
 ## Intrigue Cards
 Each of these should be powerful enough to not need balancing for the square to play them.
 
+- ¿¿Gain two from Anonymous forum, or play one.
 - Expose Corruption - Increases cost of all resources for remainder of turn
 - Blackmail with Goat Pics - Other play loses resource
 - Anonymously Donate to Political Committee - Trade one party resource for another
 - Reveal Gerrymandering in Shape of Nude Basset hound - All players lose half (rounded up) of one party in there pockets. 
-- Better hotel suite - allows use of already occupied building of corruption.
+- Sweeter Suite - allows use of already occupied building of corruption.
+- Expose Excessive Mulligan Use - all players must pay $$ to keep their politicians of a particular group.
 - ....
 
 ## Quests
@@ -83,10 +86,32 @@ Receive Money when accepting Quest.  Receive Prestige (Victory Points) when comp
 
 ***Examples***
 
-- Legalize Cat Pics as Virtual Money - Upfront 7 Credits. 2 Banking tokens, 4 any tokens.
-- Ban Multiple Arm Catapults - Upfront 5 Credits. 6 Violet party tokens.
-- Require Pasteurization of Cat Milk Before Sell - Upfront 3 Credits. 4 Agriculture & Environment - 2 Violet tokens
-- Open liable suits up against screaming goats.
+- Legalize Cat Pics as Virtual Money - Sponsored by I May Has Ruebun Corporation - Upfront 7 Credits. 2 Banking tokens, 4 any tokens.
+- Ban Multiple Arm Catapults - Sponsored by Uncles Against Flung Pumpkins - Upfront 5 Credits. 6 Violet party tokens.
+- Require Pasteurization of Cat Milk Before Sell - Sponsored by Dog Milk Union - Upfront 3 Credits. 4 Agriculture & Environment - 2 Violet tokens
+- Open liable suits up against screaming goats - Sponsored by People that Walk Farm Roads -
+- Pass anti-lobbying bill - No Sponsor - Doubles the price of all politicians for the remainder of the turn.
+- Overturn Anti-lobbying bill - No Sponsor -  Halves the price of all politicians for the remainder of the turn.
+- Age Restriction on Buying 0.7mm Lead Pencils - Paid for by 0.5mm Mechanical Pencil Consortioum. 
+- Deregulate Swamp Buggies - Sponsored by Frog Gigger's of Ludicrousville
+- Make Illegal Use of Laser Pointers to play with cats - Sponsored by Stuffed Animal Toys Alliance.
+- Prevent Grocery Stores from Providing goods packaged in plastic - Sponsored by Citizens For A Cleaner Landfill
+- Add provision to nudity legalization bill requiring genitals to be covered.
+- Outlaw Couples meeting before Marriage - Sponsored by Citizens for Traditional Medieval Marriages
+- Calculate Traffic Fines as a Percentage of the Police Officers Income
+- Tarrif on Import of White Cheddar - Sponsored by Yellow Cow Dairy Farmers
+- Require Owners that Run a Redlight to paint their cars red - Sponsored by Paint Manufacturers Union
+- Outlaw Collars without Bells for Cats - Sponsored by Human Animal Hunting Practices
+- Regulate Who is Allowed to Die in the State house - Sponsored by State House Janitors Union.
+- Prerogative 1324 The Head of any deceased Giant Squid fount automatically Becomes the Property of the Mayor, and the Tail of the City Manager
+- Outlaw wrestling Whales
+- Disallow bringing Pet Moose to the Beauty Salons
+- Outlaw consuming mince pies on Halloween.
+- No person, firm, or corporation shall dye or otherwise color any rabbit or baby poultry, including, but not limited to, chicks and ducklings. No person, firm, or corporation shall sell, offer for sale, expose for sale, raffle, or give away any rabbit or baby poultry which has been dyed or otherwise colored.
+- Keep loophole open allowing Prison Escapes to be Tax deductible.
+- Prevent Reincarnation with Permit
+- Rescend Law that prevents wearing the color celadon on St Patrick's day. Sponsored by Light Green Dyes Consortium
+- Reduce Portion TV stations are required to spend on actual content by excluding political commercials from calculations.
 - ....
 
 ## Random Effect Cards
