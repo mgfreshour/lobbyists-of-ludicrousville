@@ -15,7 +15,7 @@ Themed as completely silly.  Though vaguely referencing real politics, completel
 
 ***Examples***
 1. Committee of Buying Stuff and Extreme Retribution (Finance & Defense) - Money/Gun
-1. Committee of Eavesdropping and Nifty New Gadgets (Intelligence & Technology) Trenchcoat & Hat/Computer Monitor
+1. Committee of Eavesdropping and Reading Well (Intelligence & Education) Trenchcoat & Hat/Computer Monitor
 1. Committee of Growing Growing Stuff and Getting Around (Transportation & Environment) - Car/Leaf
 
 Each Party resource has 3 spaces that cost the same.
@@ -122,6 +122,8 @@ Receive Money when accepting Quest.  Quests have a voting part and optionally a 
 1. Outlaw wearing single wing of hawk costume in ballet - Sponsored by Right Wing Group - Counter deal offered by Left Wing Group
 1. Require all locks sold be openable with a single master key kept by law enforcement.
 1. Require all student loans final payment check be written in blood.
+1. Require all maps in textbooks be centered on Ludicrousville regardless of hemasphere.
+1. Require schools teach the alternative view that if something happens more frequently than normal during some period, it may happen less frequently in the future alongside basic statistics. Sponsored by Roullete Owners Association.
 
 ## Random Effect Cards
 Turns are represent by the X cards dealt out at the beginning of the game. Each card has a before turn text, during turn text, and after turn text.
