@@ -11,6 +11,12 @@ Themed as completely silly.  Though vaguely referencing real politics, completel
 1. ¿¿Two prestige trackers, one for each party - end game calculation a formula based on highest tracker.
 1. ¿¿Turns follow an election cycle, making things cheaper/more expensive (alternate to random events).
 
+## Random thoughts to sort later
+
+1. Super PACs.  Cost a lot, but work as reusable bonus/attack/defense.  Think tapping cards in magic.
+1. Mud slinging cards free to play at anytime, but have attack and defense and interrupt ones?
+
+
 ## Resources
 
 ***Examples***
@@ -64,7 +70,7 @@ Each provide resources
 1. Restricted Reservation Ristorante - Get any politician, expensive.
 
 
-## Intrigue Cards
+## Intrigue Cards (Mud slingin')
 Each of these should be powerful enough to not need balancing for the square to play them.
 
 1. ¿¿Gain two from Anonymous forum, or play one.
@@ -124,6 +130,9 @@ Receive Money when accepting Quest.  Quests have a voting part and optionally a 
 1. Require all student loans final payment check be written in blood.
 1. Require all maps in textbooks be centered on Ludicrousville regardless of hemasphere.
 1. Require schools teach the alternative view that if something happens more frequently than normal during some period, it may happen less frequently in the future alongside basic statistics. Sponsored by Roullete Owners Association.
+1. Require Circus' employee 10% of their clowns be objectively scary. Sponsored by Night Light Manufactures Council.
+1. Add exemption to hunting laws from the back of a moving vehicle for chupacabras.
+1. Regulate natural medicines made from unicorn droppings.
 
 ## Random Effect Cards
 Turns are represent by the X cards dealt out at the beginning of the game. Each card has a before turn text, during turn text, and after turn text.
