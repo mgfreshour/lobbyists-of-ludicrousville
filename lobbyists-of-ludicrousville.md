@@ -16,12 +16,24 @@ Themed as completely silly.  Though vaguely referencing real politics, completel
 1. Super PACs.  Cost a lot, but work as reusable bonus/attack/defense.  Think tapping cards in magic.
 1. Mud slinging cards free to play at anytime, but have attack and defense and interrupt ones?
 
+## Proposed Play
+
+1. Each player starts with X lobbyists to use and Y "seed" money.
+2. The "board" is resource cards dealt out on the table.  The start of the game a few obvious ones are dealt out (internect cafe, bank, wherever people pick up contracts, etc) and then X random ones based on the number of players.
+3. Players take turns placing a single lobbyist on a card and gaining the resources that card represent.  
+  * There will mostly be money politicians the player "pockets" for later completing contracts.
+  * There will be the card that offers contracts for players to take.
+  * There will be a card that allows play of intrigue cards.
+  * There will be a card that allows gaining intrigue cards.  Perhaps these two can be the same place, so a player always have a set number of intrigue cards.
+4. Players may complete a contract during their turn to gain the benefits of doing so.
+5. Once all players have exhausted their lobbyists, that round ends, they take back their lobbyists and start the process again.
+6. After a set number of rounds, the game ends and the person with the most money wins!
 
 ## Resources
 
 ***Examples***
 1. Committee of Buying Stuff and Extreme Retribution (Finance & Defense) - Money/Gun
-1. Committee of Eavesdropping and Reading Well (Intelligence & Education) Trenchcoat & Hat/Computer Monitor
+1. Committee of Eavesdropping and Reading Well (Intelligence & Education) - Trenchcoat & Hat/Computer Monitor
 1. Committee of Growing Growing Stuff and Getting Around (Transportation & Environment) - Car/Leaf
 
 Each Party resource has 3 spaces that cost the same.
